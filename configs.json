@@ -1,0 +1,103 @@
+{
+  "api_version": "1.0",
+  "brand": "Moxie VPN",
+  "server": "Singapore AWS Premium Server",
+  "packages": [
+    {
+      "id": "mobitel-zoom",
+      "name": "Mobitel Zoom",
+      "emoji": "💙",
+      "tag": "VLESS • TLS",
+      "description": "Tap below to copy this configuration",
+      "config": "vless://bc8c6bb8-ede7-4754-82f8-7bd1c02eb4b2@[2606:4700:3038::6815:eb38]:8443/?encryption=none&flow=none&security=tls&fp=chrome&sni=moxievpn.dpdns.org&type=ws&host=moxievpn.dpdns.org&headerType=none&path=%2f#%F0%9F%92%9Amobitel-Zoom"
+    },
+    {
+      "id": "dialog-fun-blaster",
+      "name": "Dialog Social – Fun Blaster 547 / 797",
+      "emoji": "💜",
+      "tag": "VLESS • TLS",
+      "description": "Tap below to copy this configuration",
+      "config": "vless://2617881d-ca21-4b8b-aaf8-fc6df9af26f1@moxievpn.dpdns.org:119/?encryption=none&flow=none&security=tls&fp=chrome&sni=whatsapp.net&type=tcp&headerType=none#%F0%9F%92%9ADialog-Fun-Blaster"
+    },
+    {
+      "id": "dialog-tiktok",
+      "name": "Dialog TikTok",
+      "emoji": "❤️",
+      "tag": "VLESS • TLS",
+      "description": "Tap below to copy this configuration",
+      "config": "vless://e00a1b2f-0c26-4a4e-abc6-9f62e42bd0f0@moxievpn.dpdns.org:443/?encryption=none&flow=none&security=tls&fp=chrome&sni=m.tiktok.net&type=tcp&headerType=none#%F0%9F%92%9ADialog%20tiktok"
+    },
+    {
+      "id": "airtel-tiktok",
+      "name": "Airtel TikTok",
+      "emoji": "🧡",
+      "tag": "VLESS • TLS",
+      "description": "Tap below to copy this configuration",
+      "config": "vless://e00a1b2f-0c26-4a4e-abc6-9f62e42bd0f0@moxievpn.dpdns.org:443/?encryption=none&flow=none&security=tls&fp=chrome&sni=m.tiktok.net&type=tcp&headerType=none#%F0%9F%92%9AAirtel%20tiktok"
+    },
+    {
+      "id": "hutch-social",
+      "name": "Hutch Social 169",
+      "emoji": "💛",
+      "tag": "VLESS • TLS",
+      "description": "Tap below to copy this configuration",
+      "config": "vless://e00a1b2f-0c26-4a4e-abc6-9f62e42bd0f0@moxievpn.dpdns.org:443/?encryption=none&flow=none&security=tls&fp=chrome&sni=t.me&type=tcp&headerType=none#%F0%9F%92%9A%20HUTCH%20SOCIAL"
+    },
+    {
+      "id": "dialog-zoom-router",
+      "name": "Dialog Zoom – Router",
+      "emoji": "💙",
+      "tag": "VLESS • TLS",
+      "description": "Tap below to copy this configuration",
+      "config": "vless://0436fc25-6d27-4047-81b5-69bd94f4cf78@moxievpn.dpdns.org:1749?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=download.microsoft.com%2F&type=tcp#d%20zoom-Dialog-Zoom-Router"
+    },
+    {
+      "id": "dialog-zoom-sim",
+      "name": "Dialog Zoom – SIM 224 / 724",
+      "emoji": "🚀",
+      "tag": "VLESS • TLS",
+      "description": "Tap below to copy this configuration",
+      "config": "vless://86b8d77a-44e6-484c-ac7a-62bc5d92b0ec@moxievpn.dpdns.org:8443/?encryption=none&flow=none&security=tls&fp=chrome&sni=download.microsoft.com&type=ws&host=download.microsoft.com&headerType=none&path=%2f#%F0%9F%92%9ADialog-Zoom-Sim"
+    },
+    {
+      "id": "slt-fiber-zoom",
+      "name": "SLT Fiber Zoom",
+      "emoji": "💚",
+      "tag": "VLESS • TLS",
+      "description": "Tap below to copy this configuration",
+      "config": "vless://3a94a675-c6eb-443c-b80a-91f4d82e5e19@moxievpn.dpdns.org:443/?encryption=none&flow=none&security=tls&fp=chrome&sni=zoom.us&type=tcp&headerType=none#SLT-FIBER-ZOOM"
+    },
+    {
+      "id": "slt-router-zoom",
+      "name": "SLT 4G Router Zoom",
+      "emoji": "💚",
+      "tag": "VLESS • TLS",
+      "description": "Tap below to copy this configuration",
+      "config": "vless://3fbe60cc-1e51-4bff-827e-02fdf1581ea2@141.193.213.20:8443/?encryption=none&flow=none&security=tls&fp=chrome&sni=moxievpn.dpdns.org&type=ws&host=moxievpn.dpdns.org&headerType=none&path=%2f#%F0%9F%92%9ASLT-4G-ROUTER-ZOOM"
+    },
+    {
+      "id": "airtel-zoom",
+      "name": "Airtel Zoom",
+      "emoji": "🧡",
+      "tag": "VLESS • TLS",
+      "description": "Tap below to copy this configuration",
+      "config": "vless://f820181a-6a4b-418c-a29d-b67d86f22ee2@moxievpn.dpdns.org:443/?encryption=none&flow=none&security=tls&fp=chrome&sni=m.zoom.us&type=tcp&headerType=none#%F0%9F%92%9AAIRTEL-ZOOM"
+    },
+    {
+      "id": "hutch-zoom",
+      "name": "Hutch Zoom",
+      "emoji": "💛",
+      "tag": "VLESS • TLS",
+      "description": "Tap below to copy this configuration",
+      "config": "vless://f0101575-30eb-4300-84cd-282533430ae5@support.zoom.us:8080/?encryption=none&flow=none&security=tls&fp=chrome&sni=moxievpn.dpdns.org&type=ws&host=moxievpn.dpdns.org&headerType=none&path=%2f#%F0%9F%92%9AHutch-ZOOM"
+    },
+    {
+      "id": "slt-netflix",
+      "name": "SLT Netflix",
+      "emoji": "❤️",
+      "tag": "VLESS • TLS",
+      "description": "Tap below to copy this configuration",
+      "config": "vless://0c88234d-cbb8-41b5-b43b-f43faca34482@moxievpn.dpdns.org:443/?encryption=none&flow=none&security=tls&fp=chrome&sni=www.netflix.com&type=tcp&headerType=none#%F0%9F%92%9ASLT-Netflix"
+    }
+  ]
+}
