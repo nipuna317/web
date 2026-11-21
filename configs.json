@@ -7,9 +7,9 @@
       "id": "mobitel-zoom",
       "name": "Mobitel Zoom",
       "emoji": "💙",
-      "tag": "VLESS • TLS",
-      "description": "Tap below to copy this configuration",
-      "config": "vless://bc8c6bb8-ede7-4754-82f8-7bd1c02eb4b2@[2606:4700:3038::6815:eb38]:8443/?encryption=none&flow=none&security=tls&fp=chrome&sni=moxievpn.dpdns.org&type=ws&host=moxievpn.dpdns.org&headerType=none&path=%2f#%F0%9F%92%9Amobitel-Zoom"
+      "tag": "VMess • Zoom",
+      "description": "Tap COPY CONFIG to copy this profile",
+      "config": "vmess://ew0KICAiYWRkIjogIjI2MDY6NDcwMDozMDM4Ojo2ODE1OmViMzgiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAiaG9zdCI6ICJtb3hpZXZwbi5kcGRucy5vcmciLA0KICAiaWQiOiAiYmM4YzZiYjgtZWRlNy00NzU0LTgyZjgtN2JkMWMwMmViNGIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJwYXRoIjogIi8iLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgInBzIjogIvCfkpptb2JpdGVsLVpvb20iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibW94aWV2cG4uZHBkbnMub3JnIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJ2IjogIjIiLA0KICAiZnAiOiAiY2hyb21lIg0KfQ=="
     },
     {
       "id": "dialog-fun-blaster",
@@ -53,11 +53,11 @@
     },
     {
       "id": "dialog-zoom-sim",
-      "name": "Dialog Zoom – SIM 224 / 724",
+      "name": "Dialog Zoom – SIM 224 / 724 (Speed Bypass)",
       "emoji": "🚀",
-      "tag": "VLESS • TLS",
-      "description": "Tap below to copy this configuration",
-      "config": "vless://86b8d77a-44e6-484c-ac7a-62bc5d92b0ec@moxievpn.dpdns.org:8443/?encryption=none&flow=none&security=tls&fp=chrome&sni=download.microsoft.com&type=ws&host=download.microsoft.com&headerType=none&path=%2f#%F0%9F%92%9ADialog-Zoom-Sim"
+      "tag": "VLESS • Speed Bypass",
+      "description": "Tap COPY CONFIG to copy this profile",
+      "config": "vless://86b8d77a-44e6-484c-ac7a-62bc5d92b0ec@moxievpn.dpdns.org:1749/?encryption=none&flow=none&security=tls&fp=chrome&sni=download.microsoft.com&type=tcp&headerType=none#%F0%9F%92%9ADialog-Zoom-Sim"
     },
     {
       "id": "slt-fiber-zoom",
@@ -69,11 +69,11 @@
     },
     {
       "id": "slt-router-zoom",
-      "name": "SLT 4G Router Zoom",
+      "name": "SLT 4G Router – Zoom",
       "emoji": "💚",
-      "tag": "VLESS • TLS",
-      "description": "Tap below to copy this configuration",
-      "config": "vless://3fbe60cc-1e51-4bff-827e-02fdf1581ea2@141.193.213.20:8443/?encryption=none&flow=none&security=tls&fp=chrome&sni=moxievpn.dpdns.org&type=ws&host=moxievpn.dpdns.org&headerType=none&path=%2f#%F0%9F%92%9ASLT-4G-ROUTER-ZOOM"
+      "tag": "VMess • Router",
+      "description": "Tap COPY CONFIG to copy this profile",
+      "config": "vmess://ew0KICAiYWRkIjogIjE0MS4xOTMuMjEzLjIwIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgImhvc3QiOiAibW94aWV2cG4uZHBkbnMub3JnIiwNCiAgImlkIjogIjNmYmU2MGNjLTFlNTEtNGJmZi04MjdlLTAyZmRmMTU4MWVhMiIsDQogICJuZXQiOiAid3MiLA0KICAicGF0aCI6ICIvIiwNCiAgInBvcnQiOiAiODQ0MyIsDQogICJwcyI6ICLwn5KaU0xULTRHLVJPVVRFUi1aT09NIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIm1veGlldnBuLmRwZG5zLm9yZyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAidiI6ICIyIiwNCiAgImZwIjogImNocm9tZSINCn0="
     },
     {
       "id": "airtel-zoom",
@@ -98,6 +98,26 @@
       "tag": "VLESS • TLS",
       "description": "Tap below to copy this configuration",
       "config": "vless://0c88234d-cbb8-41b5-b43b-f43faca34482@moxievpn.dpdns.org:443/?encryption=none&flow=none&security=tls&fp=chrome&sni=www.netflix.com&type=tcp&headerType=none#%F0%9F%92%9ASLT-Netflix"
+    },
+    {
+      "id": "airtel-135-260",
+      "name": "Airtel 135 – 260",
+      "config": "vless://531f3dc7-7f01-4f71-9792-55eeb76f6357@moxievpn.dpdns.org:443/?encryption=none&flow=none&security=tls&fp=chrome&sni=m.youtube.com&type=tcp&headerType=none#%F0%9F%92%9AAirtel-yt-135-260",
+      "emoji": "🧡",
+      "tag": "VLESS • YouTube",
+      "description": "Tap COPY CONFIG to copy this profile"
     }
-  ]
+  ],
+  "channels": {
+    "telegram": "https://t.me/moxievpn",
+    "whatsapp": "https://whatsapp.com/channel/0029VbDjDAc4o7qNI3IZCo3Z"
+  },
+  "connect_instructions": {
+    "iphone": "NPV Tunnel App",
+    "android": "NetMod App",
+    "windows": "NetMod App",
+    "v2rayng": "Set AllowInsecure = true",
+    "v2box": "May not work for all users"
+  },
+  "footer": "Moxie VPN • Copy the configuration and import it into your VPN app."
 }
